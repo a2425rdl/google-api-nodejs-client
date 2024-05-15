@@ -1,5 +1,22 @@
 # Changelog
 
+## [7.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/metastore-v6.1.0...metastore-v7.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+* This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* **metastore:** update the API ([57b1763](https://github.com/a2425rdl/google-api-nodejs-client/commit/57b1763cd49724b461a5f85f8a6ef1cdebfdd500))
+* **metastore:** update the API ([805d5a3](https://github.com/a2425rdl/google-api-nodejs-client/commit/805d5a3647fb25248b13d108522edeebafacb998))
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+* run the generator ([#3441](https://github.com/a2425rdl/google-api-nodejs-client/issues/3441)) ([f832463](https://github.com/a2425rdl/google-api-nodejs-client/commit/f832463312572dc58fe89f9254282982a520d1df))
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+
 ## [6.1.0](https://github.com/googleapis/google-api-nodejs-client/compare/metastore-v6.0.0...metastore-v6.1.0) (2024-05-02)
 
 

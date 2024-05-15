@@ -1,5 +1,29 @@
 # Changelog
 
+## [13.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/aiplatform-v12.0.0...aiplatform-v13.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+* This release has breaking changes.
+* **aiplatform:** This release has breaking changes.
+* **aiplatform:** This release has breaking changes.
+* This release has breaking changes.
+* This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* **aiplatform:** update the API ([925c9eb](https://github.com/a2425rdl/google-api-nodejs-client/commit/925c9eb50717f3bd5ef9440caf2ef0c1d15052a7))
+* **aiplatform:** update the API ([56cde03](https://github.com/a2425rdl/google-api-nodejs-client/commit/56cde03e4eb6283561515ecac8435ad28f49dda9))
+* **aiplatform:** update the API ([bee5953](https://github.com/a2425rdl/google-api-nodejs-client/commit/bee5953b9728ff802c37430e5dd03e0aab16e0fd))
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+* run the generator ([#3441](https://github.com/a2425rdl/google-api-nodejs-client/issues/3441)) ([f832463](https://github.com/a2425rdl/google-api-nodejs-client/commit/f832463312572dc58fe89f9254282982a520d1df))
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+* run the generator ([#3484](https://github.com/a2425rdl/google-api-nodejs-client/issues/3484)) ([99b6c8d](https://github.com/a2425rdl/google-api-nodejs-client/commit/99b6c8de5beb8447d177048a64a977ee39ee5ee6))
+* run the generator ([#3487](https://github.com/a2425rdl/google-api-nodejs-client/issues/3487)) ([673c364](https://github.com/a2425rdl/google-api-nodejs-client/commit/673c364a557c466c34052bef761d00e542f96516))
+
 ## [12.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/aiplatform-v11.0.0...aiplatform-v12.0.0) (2024-05-10)
 
 

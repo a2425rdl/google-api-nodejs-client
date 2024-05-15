@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/workspaceevents-v1.0.1...workspaceevents-v2.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+
+### Features
+
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+
+
+### Bug Fixes
+
+* **workspaceevents:** update the API ([78acf6b](https://github.com/a2425rdl/google-api-nodejs-client/commit/78acf6bdcb0197c34bc4f7950ed4bf351d386b59))
+* **workspaceevents:** update the API ([ef0420c](https://github.com/a2425rdl/google-api-nodejs-client/commit/ef0420cb87b1b20ba72206c4eb5cfb48e1498a09))
+
 ## [1.0.1](https://github.com/googleapis/google-api-nodejs-client/compare/workspaceevents-v1.0.0...workspaceevents-v1.0.1) (2024-05-02)
 
 

@@ -1,5 +1,22 @@
 # Changelog
 
+## [8.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/gkeonprem-v7.0.2...gkeonprem-v8.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **gkeonprem:** This release has breaking changes.
+
+### Features
+
+* **gkeonprem:** update the API ([5ee6ff1](https://github.com/a2425rdl/google-api-nodejs-client/commit/5ee6ff1045e205807ffc08238e3d100ac6e0aaee))
+
+
+### Bug Fixes
+
+* **gkeonprem:** update the API ([50b340a](https://github.com/a2425rdl/google-api-nodejs-client/commit/50b340ab8c56308486f8f47f15cf76c010300137))
+* **gkeonprem:** update the API ([1da4ff6](https://github.com/a2425rdl/google-api-nodejs-client/commit/1da4ff6a70f8859478e235eb321e134b74d30fcc))
+
 ## [7.0.2](https://github.com/googleapis/google-api-nodejs-client/compare/gkeonprem-v7.0.1...gkeonprem-v7.0.2) (2024-05-02)
 
 
