@@ -1,5 +1,28 @@
 # Changelog
 
+## [21.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/bigtableadmin-v20.1.0...bigtableadmin-v21.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **bigtableadmin:** This release has breaking changes.
+* This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* **bigtableadmin:** update the API ([751fcf5](https://github.com/a2425rdl/google-api-nodejs-client/commit/751fcf5b1313ec866e35ecc1bc7848fd81e6444c))
+* **bigtableadmin:** update the API ([423100f](https://github.com/a2425rdl/google-api-nodejs-client/commit/423100f708c03a702ff6633ddc30f27e7cf3da1d))
+* **bigtableadmin:** update the API ([ad68d8c](https://github.com/a2425rdl/google-api-nodejs-client/commit/ad68d8c6e175573ebd5c54ec74328386d9dc8cd3))
+* **bigtableadmin:** update the API ([2ffb49d](https://github.com/a2425rdl/google-api-nodejs-client/commit/2ffb49daad06e1919d81694e50315a2d573141be))
+* run the generator ([#3441](https://github.com/a2425rdl/google-api-nodejs-client/issues/3441)) ([f832463](https://github.com/a2425rdl/google-api-nodejs-client/commit/f832463312572dc58fe89f9254282982a520d1df))
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+
+
+### Bug Fixes
+
+* **bigtableadmin:** update the API ([312541e](https://github.com/a2425rdl/google-api-nodejs-client/commit/312541e5ac9c9da01e8ee1ebedf28f9745adf141))
+
 ## [20.1.0](https://github.com/googleapis/google-api-nodejs-client/compare/bigtableadmin-v20.0.0...bigtableadmin-v20.1.0) (2024-05-10)
 
 

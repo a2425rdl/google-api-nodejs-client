@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.3](https://github.com/a2425rdl/google-api-nodejs-client/compare/adexchangebuyer2-v4.2.2...adexchangebuyer2-v4.2.3) (2024-05-15)
+
+
+### Bug Fixes
+
+* **adexchangebuyer2:** update the API ([ec9384a](https://github.com/a2425rdl/google-api-nodejs-client/commit/ec9384ab02f3f30493962122c90c0549c318c7d4))
+
 ## [4.2.2](https://github.com/googleapis/google-api-nodejs-client/compare/adexchangebuyer2-v4.2.1...adexchangebuyer2-v4.2.2) (2024-05-02)
 
 

@@ -1,5 +1,23 @@
 # Changelog
 
+## [16.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/cloudtasks-v15.0.0...cloudtasks-v16.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+
+### Features
+
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+
+
+### Bug Fixes
+
+* **cloudtasks:** update the API ([31dbbe2](https://github.com/a2425rdl/google-api-nodejs-client/commit/31dbbe2439fabe0f0fc1b8f3377a305fee87c2c0))
+* **cloudtasks:** update the API ([aeed97f](https://github.com/a2425rdl/google-api-nodejs-client/commit/aeed97f08644b1665b51a993bb4a6f9c8d43ee8b))
+* **cloudtasks:** update the API ([1415619](https://github.com/a2425rdl/google-api-nodejs-client/commit/14156190b636aa45ebd4a78d273017963ea97ac1))
+
 ## [15.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/cloudtasks-v14.0.1...cloudtasks-v15.0.0) (2024-05-02)
 
 
