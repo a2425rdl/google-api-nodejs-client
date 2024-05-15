@@ -1,5 +1,21 @@
 # Changelog
 
+## [5.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/osconfig-v4.0.0...osconfig-v5.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+
+### Features
+
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+
+
+### Bug Fixes
+
+* **osconfig:** update the API ([fc51160](https://github.com/a2425rdl/google-api-nodejs-client/commit/fc5116090ac8e177af2cfe17ed5bb938d1f27470))
+
 ## [4.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/osconfig-v3.0.1...osconfig-v4.0.0) (2024-05-02)
 
 

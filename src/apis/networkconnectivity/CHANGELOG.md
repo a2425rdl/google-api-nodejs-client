@@ -1,5 +1,25 @@
 # Changelog
 
+## [9.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/networkconnectivity-v8.0.0...networkconnectivity-v9.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* **networkconnectivity:** update the API ([bb6e8ff](https://github.com/a2425rdl/google-api-nodejs-client/commit/bb6e8ffe0ccc87c117b7acbecf2ad9a52ec76158))
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+* run the generator ([#3441](https://github.com/a2425rdl/google-api-nodejs-client/issues/3441)) ([f832463](https://github.com/a2425rdl/google-api-nodejs-client/commit/f832463312572dc58fe89f9254282982a520d1df))
+
+
+### Bug Fixes
+
+* **networkconnectivity:** update the API ([069adea](https://github.com/a2425rdl/google-api-nodejs-client/commit/069adea86ff672b9ba18330e77873c9f09dc1953))
+* **networkconnectivity:** update the API ([55a5a31](https://github.com/a2425rdl/google-api-nodejs-client/commit/55a5a31890bfea6165d3149d53723935c21a938b))
+
 ## [8.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/networkconnectivity-v7.1.0...networkconnectivity-v8.0.0) (2024-05-02)
 
 

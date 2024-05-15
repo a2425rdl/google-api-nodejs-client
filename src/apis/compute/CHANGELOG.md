@@ -1,5 +1,31 @@
 # Changelog
 
+## [14.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/compute-v13.0.0...compute-v14.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+* **compute:** This release has breaking changes.
+* This release has breaking changes.
+* **compute:** This release has breaking changes.
+* This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* **compute:** update the API ([899847d](https://github.com/a2425rdl/google-api-nodejs-client/commit/899847dfccc952548adaad6f337a3a5020cfb305))
+* **compute:** update the API ([0ef7bad](https://github.com/a2425rdl/google-api-nodejs-client/commit/0ef7badccb8299d4412873505bbba8e402a53b88))
+* **compute:** update the API ([f84e98a](https://github.com/a2425rdl/google-api-nodejs-client/commit/f84e98a33f39034e2cb7846fbc4c3fc6804a2ffa))
+* **compute:** update the API ([65016d0](https://github.com/a2425rdl/google-api-nodejs-client/commit/65016d05e42a4fc68b8b61b4fc80e45a8dd3e2a7))
+* **compute:** update the API ([38e7737](https://github.com/a2425rdl/google-api-nodejs-client/commit/38e7737b08d06863fdcd39a29f11dcba07f5937f))
+* **compute:** update the API ([e40a7e7](https://github.com/a2425rdl/google-api-nodejs-client/commit/e40a7e7f6d6f3e6b7787a02d6a1d05f169475d1e))
+* run the generator ([181f2d5](https://github.com/a2425rdl/google-api-nodejs-client/commit/181f2d5118e33081dcd33a485ff79c5d6a7e1c43))
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+* run the generator ([#3441](https://github.com/a2425rdl/google-api-nodejs-client/issues/3441)) ([f832463](https://github.com/a2425rdl/google-api-nodejs-client/commit/f832463312572dc58fe89f9254282982a520d1df))
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+* run the generator ([#3484](https://github.com/a2425rdl/google-api-nodejs-client/issues/3484)) ([99b6c8d](https://github.com/a2425rdl/google-api-nodejs-client/commit/99b6c8de5beb8447d177048a64a977ee39ee5ee6))
+
 ## [13.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/compute-v12.2.0...compute-v13.0.0) (2024-05-10)
 
 

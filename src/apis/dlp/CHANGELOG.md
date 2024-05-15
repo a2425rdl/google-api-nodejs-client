@@ -1,5 +1,28 @@
 # Changelog
 
+## [11.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/dlp-v10.0.0...dlp-v11.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+* This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* **dlp:** update the API ([88f0a64](https://github.com/a2425rdl/google-api-nodejs-client/commit/88f0a640104e95f5aa785b89658997746153915e))
+* **dlp:** update the API ([37c56f8](https://github.com/a2425rdl/google-api-nodejs-client/commit/37c56f8ad74b4f41e05500aa7c94fb025f5b8bdb))
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+* run the generator ([#3484](https://github.com/a2425rdl/google-api-nodejs-client/issues/3484)) ([99b6c8d](https://github.com/a2425rdl/google-api-nodejs-client/commit/99b6c8de5beb8447d177048a64a977ee39ee5ee6))
+
+
+### Bug Fixes
+
+* **dlp:** update the API ([38e8e22](https://github.com/a2425rdl/google-api-nodejs-client/commit/38e8e22ac7c67afeb46f5a19ecf702f41b03986c))
+* **dlp:** update the API ([81466f2](https://github.com/a2425rdl/google-api-nodejs-client/commit/81466f2b97f39409c2bd4aa428755bb6aad85a2f))
+
 ## [10.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/dlp-v9.0.1...dlp-v10.0.0) (2024-05-10)
 
 
