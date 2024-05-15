@@ -1,5 +1,32 @@
 # Changelog
 
+## [6.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/logging-v5.0.0...logging-v6.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+* This release has breaking changes.
+* **logging:** This release has breaking changes.
+* This release has breaking changes.
+* This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* **logging:** update the API ([4317a72](https://github.com/a2425rdl/google-api-nodejs-client/commit/4317a72ef5752de222fafdaadb4be75267fedd4f))
+* **logging:** update the API ([2df1a80](https://github.com/a2425rdl/google-api-nodejs-client/commit/2df1a80842487da7f97dae86d145ec16aec79c62))
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+* run the generator ([#3441](https://github.com/a2425rdl/google-api-nodejs-client/issues/3441)) ([f832463](https://github.com/a2425rdl/google-api-nodejs-client/commit/f832463312572dc58fe89f9254282982a520d1df))
+* run the generator ([#3447](https://github.com/a2425rdl/google-api-nodejs-client/issues/3447)) ([873b559](https://github.com/a2425rdl/google-api-nodejs-client/commit/873b55950bcf04db37f08e8a62caa6e4a9b9c487))
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+* run the generator ([#3487](https://github.com/a2425rdl/google-api-nodejs-client/issues/3487)) ([673c364](https://github.com/a2425rdl/google-api-nodejs-client/commit/673c364a557c466c34052bef761d00e542f96516))
+
+
+### Bug Fixes
+
+* **logging:** update the API ([0492f02](https://github.com/a2425rdl/google-api-nodejs-client/commit/0492f020bca2c500308848aeb25ee484c9614914))
+
 ## [5.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/logging-v4.0.1...logging-v5.0.0) (2024-05-10)
 
 

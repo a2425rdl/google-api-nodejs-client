@@ -1,5 +1,20 @@
 # Changelog
 
+## [9.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/documentai-v8.1.0...documentai-v9.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* **documentai:** update the API ([7fa01b6](https://github.com/a2425rdl/google-api-nodejs-client/commit/7fa01b664d17b58d6ec3cb901c5c44b3bfdde927))
+* **documentai:** update the API ([b07b1aa](https://github.com/a2425rdl/google-api-nodejs-client/commit/b07b1aa83a3be53769729f43afe252bab824b55a))
+* run the generator ([#3447](https://github.com/a2425rdl/google-api-nodejs-client/issues/3447)) ([873b559](https://github.com/a2425rdl/google-api-nodejs-client/commit/873b55950bcf04db37f08e8a62caa6e4a9b9c487))
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+
 ## [8.1.0](https://github.com/googleapis/google-api-nodejs-client/compare/documentai-v8.0.0...documentai-v8.1.0) (2024-05-07)
 
 
