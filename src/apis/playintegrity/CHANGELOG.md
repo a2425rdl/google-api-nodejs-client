@@ -1,5 +1,23 @@
 # Changelog
 
+## [12.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/playintegrity-v11.0.0...playintegrity-v12.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+* run the generator ([#3484](https://github.com/a2425rdl/google-api-nodejs-client/issues/3484)) ([99b6c8d](https://github.com/a2425rdl/google-api-nodejs-client/commit/99b6c8de5beb8447d177048a64a977ee39ee5ee6))
+
+
+### Bug Fixes
+
+* **playintegrity:** update the API ([78dfca2](https://github.com/a2425rdl/google-api-nodejs-client/commit/78dfca25343031a78ba17ce5a9f84b4b449ff3c3))
+
 ## [11.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/playintegrity-v10.0.0...playintegrity-v11.0.0) (2024-05-10)
 
 

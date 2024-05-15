@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.8](https://github.com/a2425rdl/google-api-nodejs-client/compare/mybusinessqanda-v1.0.7...mybusinessqanda-v1.0.8) (2024-05-15)
+
+
+### Bug Fixes
+
+* **mybusinessqanda:** update the API ([9d43c1e](https://github.com/a2425rdl/google-api-nodejs-client/commit/9d43c1e6ee4654d8bfff86aa44eee91c212e2aef))
+
 ## [1.0.7](https://github.com/googleapis/google-api-nodejs-client/compare/mybusinessqanda-v1.0.6...mybusinessqanda-v1.0.7) (2024-05-02)
 
 

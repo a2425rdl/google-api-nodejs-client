@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/a2425rdl/google-api-nodejs-client/compare/gmailpostmastertools-v1.1.2...gmailpostmastertools-v1.1.3) (2024-05-15)
+
+
+### Bug Fixes
+
+* **gmailpostmastertools:** update the API ([2d1dd45](https://github.com/a2425rdl/google-api-nodejs-client/commit/2d1dd456fd959314d4dfdd5066f32304ca6534a4))
+
 ## [1.1.2](https://github.com/googleapis/google-api-nodejs-client/compare/gmailpostmastertools-v1.1.1...gmailpostmastertools-v1.1.2) (2024-05-02)
 
 

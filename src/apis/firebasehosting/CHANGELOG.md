@@ -1,5 +1,21 @@
 # Changelog
 
+## [10.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/firebasehosting-v9.0.0...firebasehosting-v10.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+
+### Features
+
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+
+
+### Bug Fixes
+
+* **firebasehosting:** update the API ([6abce84](https://github.com/a2425rdl/google-api-nodejs-client/commit/6abce84cf7567d906dc94c64700c8bc42c55de4a))
+
 ## [9.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/firebasehosting-v8.0.1...firebasehosting-v9.0.0) (2024-05-02)
 
 
