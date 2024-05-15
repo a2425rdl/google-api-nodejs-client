@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.3](https://github.com/a2425rdl/google-api-nodejs-client/compare/vault-v3.4.2...vault-v3.4.3) (2024-05-15)
+
+
+### Bug Fixes
+
+* **vault:** update the API ([cb9bc44](https://github.com/a2425rdl/google-api-nodejs-client/commit/cb9bc4432053217aa68d18b283d55a4ca553617f))
+
 ## [3.4.2](https://github.com/googleapis/google-api-nodejs-client/compare/vault-v3.4.1...vault-v3.4.2) (2024-05-02)
 
 

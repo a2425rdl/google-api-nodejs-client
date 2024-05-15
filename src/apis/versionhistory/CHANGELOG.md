@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.6](https://github.com/a2425rdl/google-api-nodejs-client/compare/versionhistory-v1.0.5...versionhistory-v1.0.6) (2024-05-15)
+
+
+### Bug Fixes
+
+* **versionhistory:** update the API ([0e4d78e](https://github.com/a2425rdl/google-api-nodejs-client/commit/0e4d78e3b4fdd766a38662bd270453080efd804d))
+
 ## [1.0.5](https://github.com/googleapis/google-api-nodejs-client/compare/versionhistory-v1.0.4...versionhistory-v1.0.5) (2024-05-02)
 
 
