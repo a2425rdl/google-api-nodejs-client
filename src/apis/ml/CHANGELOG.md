@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.12](https://github.com/a2425rdl/google-api-nodejs-client/compare/ml-v3.0.11...ml-v3.0.12) (2024-05-15)
+
+
+### Bug Fixes
+
+* **ml:** update the API ([bf42196](https://github.com/a2425rdl/google-api-nodejs-client/commit/bf421969326b70fae5d4c6cddc432546004ec0f0))
+
 ## [3.0.11](https://github.com/googleapis/google-api-nodejs-client/compare/ml-v3.0.10...ml-v3.0.11) (2024-05-02)
 
 

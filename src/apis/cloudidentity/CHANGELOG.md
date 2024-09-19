@@ -1,5 +1,23 @@
 # Changelog
 
+## [14.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/cloudidentity-v13.0.0...cloudidentity-v14.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+
+### Features
+
+* **cloudidentity:** update the API ([ba88c53](https://github.com/a2425rdl/google-api-nodejs-client/commit/ba88c53f37a67b2830c2ab992832a0caa54d51c0))
+* run the generator ([#3484](https://github.com/a2425rdl/google-api-nodejs-client/issues/3484)) ([99b6c8d](https://github.com/a2425rdl/google-api-nodejs-client/commit/99b6c8de5beb8447d177048a64a977ee39ee5ee6))
+
+
+### Bug Fixes
+
+* **cloudidentity:** update the API ([3d288c6](https://github.com/a2425rdl/google-api-nodejs-client/commit/3d288c674958a8ece72b1bb73764b9549b3cbc1c))
+* **cloudidentity:** update the API ([f35c89f](https://github.com/a2425rdl/google-api-nodejs-client/commit/f35c89f62bf0faa103541994af9d6b1413539d0f))
+
 ## [13.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/cloudidentity-v12.4.0...cloudidentity-v13.0.0) (2024-05-10)
 
 

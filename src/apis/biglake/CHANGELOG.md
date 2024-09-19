@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/a2425rdl/google-api-nodejs-client/compare/biglake-v0.1.1...biglake-v0.1.2) (2024-05-15)
+
+
+### Bug Fixes
+
+* **biglake:** update the API ([ebfd8c6](https://github.com/a2425rdl/google-api-nodejs-client/commit/ebfd8c6610f83f7ed63d21705f7d1eb2ed6db2d0))
+
 ## [0.1.1](https://github.com/googleapis/google-api-nodejs-client/compare/biglake-v0.1.0...biglake-v0.1.1) (2024-05-02)
 
 

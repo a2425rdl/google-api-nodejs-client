@@ -1,5 +1,19 @@
 # Changelog
 
+## [4.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/dataportability-v3.0.0...dataportability-v4.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **dataportability:** This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* **dataportability:** update the API ([50c5d63](https://github.com/a2425rdl/google-api-nodejs-client/commit/50c5d63f83ccf4e91e27e7322062a8edc24b33cf))
+* **dataportability:** update the API ([28a4af4](https://github.com/a2425rdl/google-api-nodejs-client/commit/28a4af46a4efb429294c194fe94eb3cf0f0b41eb))
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+
 ## [3.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/dataportability-v2.0.0...dataportability-v3.0.0) (2024-05-02)
 
 

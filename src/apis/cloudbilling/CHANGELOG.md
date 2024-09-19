@@ -1,5 +1,22 @@
 # Changelog
 
+## [5.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/cloudbilling-v4.0.1...cloudbilling-v5.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+
+### Features
+
+* **cloudbilling:** update the API ([b7cf2f0](https://github.com/a2425rdl/google-api-nodejs-client/commit/b7cf2f02200478f1ccf0b6e17aeb9ba73f8a30dd))
+* run the generator ([#3456](https://github.com/a2425rdl/google-api-nodejs-client/issues/3456)) ([a865e81](https://github.com/a2425rdl/google-api-nodejs-client/commit/a865e81539b315d3b321650663ba0b2555b1e5a1))
+
+
+### Bug Fixes
+
+* **cloudbilling:** update the API ([f8baaac](https://github.com/a2425rdl/google-api-nodejs-client/commit/f8baaac306d170b837cf2eb544edae932d13ed98))
+
 ## [4.0.1](https://github.com/googleapis/google-api-nodejs-client/compare/cloudbilling-v4.0.0...cloudbilling-v4.0.1) (2024-05-02)
 
 

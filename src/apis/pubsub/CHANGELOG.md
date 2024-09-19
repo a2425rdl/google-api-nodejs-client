@@ -1,5 +1,26 @@
 # Changelog
 
+## [5.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/pubsub-v4.0.0...pubsub-v5.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+* This release has breaking changes.
+* This release has breaking changes.
+
+### Features
+
+* **pubsub:** update the API ([985ba9b](https://github.com/a2425rdl/google-api-nodejs-client/commit/985ba9bb35f3bd9db382497be3ec99d4c309cff4))
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+* run the generator ([#3441](https://github.com/a2425rdl/google-api-nodejs-client/issues/3441)) ([f832463](https://github.com/a2425rdl/google-api-nodejs-client/commit/f832463312572dc58fe89f9254282982a520d1df))
+* run the generator ([#3447](https://github.com/a2425rdl/google-api-nodejs-client/issues/3447)) ([873b559](https://github.com/a2425rdl/google-api-nodejs-client/commit/873b55950bcf04db37f08e8a62caa6e4a9b9c487))
+
+
+### Bug Fixes
+
+* **pubsub:** update the API ([3422f11](https://github.com/a2425rdl/google-api-nodejs-client/commit/3422f112fba0ff42d6166c38cbff19e0c380bb5d))
+
 ## [4.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/pubsub-v3.1.0...pubsub-v4.0.0) (2024-05-02)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/a2425rdl/google-api-nodejs-client/compare/resourcesettings-v1.0.4...resourcesettings-v1.0.5) (2024-05-15)
+
+
+### Bug Fixes
+
+* **resourcesettings:** update the API ([b499612](https://github.com/a2425rdl/google-api-nodejs-client/commit/b49961200508406ed5dc860b66d671a1598026b0))
+
 ## [1.0.4](https://github.com/googleapis/google-api-nodejs-client/compare/resourcesettings-v1.0.3...resourcesettings-v1.0.4) (2024-05-02)
 
 

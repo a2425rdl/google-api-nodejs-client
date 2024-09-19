@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/servicemanagement-v2.0.0...servicemanagement-v3.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **servicemanagement:** This release has breaking changes.
+
+### Features
+
+* **servicemanagement:** update the API ([9c2242b](https://github.com/a2425rdl/google-api-nodejs-client/commit/9c2242b570aa22c8ab69862e362593f5162e8b21))
+
+
+### Bug Fixes
+
+* **servicemanagement:** update the API ([74cb0a2](https://github.com/a2425rdl/google-api-nodejs-client/commit/74cb0a2a62c6b29337808ad6fef57daf5c5afed5))
+* **servicemanagement:** update the API ([01229e3](https://github.com/a2425rdl/google-api-nodejs-client/commit/01229e3654c092be86e674cd66e6c3f938862de2))
+
 ## [2.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/servicemanagement-v1.3.3...servicemanagement-v2.0.0) (2024-05-07)
 
 

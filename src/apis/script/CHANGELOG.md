@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/a2425rdl/google-api-nodejs-client/compare/script-v5.0.0...script-v5.0.1) (2024-05-15)
+
+
+### Bug Fixes
+
+* **script:** update the API ([582352f](https://github.com/a2425rdl/google-api-nodejs-client/commit/582352f283013f76babffc3f34de45aff10fb44e))
+
 ## [5.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/script-v4.0.1...script-v5.0.0) (2024-05-02)
 
 

@@ -1,5 +1,18 @@
 # Changelog
 
+## [3.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/apphub-v2.1.0...apphub-v3.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+
+### Features
+
+* **apphub:** update the API ([e9a8db0](https://github.com/a2425rdl/google-api-nodejs-client/commit/e9a8db0b264dc78e526dae22ff7a33574406a360))
+* **apphub:** update the API ([6acbca7](https://github.com/a2425rdl/google-api-nodejs-client/commit/6acbca76ad629d22ca632792e942da35cc687e6a))
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+
 ## [2.1.0](https://github.com/googleapis/google-api-nodejs-client/compare/apphub-v2.0.0...apphub-v2.1.0) (2024-05-02)
 
 

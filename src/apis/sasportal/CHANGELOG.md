@@ -1,5 +1,23 @@
 # Changelog
 
+## [19.0.0](https://github.com/a2425rdl/google-api-nodejs-client/compare/sasportal-v18.0.0...sasportal-v19.0.0) (2024-05-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* This release has breaking changes.
+* **sasportal:** This release has breaking changes.
+
+### Features
+
+* run the generator ([#3434](https://github.com/a2425rdl/google-api-nodejs-client/issues/3434)) ([f0db524](https://github.com/a2425rdl/google-api-nodejs-client/commit/f0db524bb26f05cea3dec4c0ed66b496399e3857))
+* **sasportal:** update the API ([db1e629](https://github.com/a2425rdl/google-api-nodejs-client/commit/db1e62985167cddbd08cb045fc7a3c9d3c495d42))
+
+
+### Bug Fixes
+
+* **sasportal:** update the API ([a6a96bc](https://github.com/a2425rdl/google-api-nodejs-client/commit/a6a96bc8ee62e20c1dd078e8074b07ea523a58fd))
+
 ## [18.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/sasportal-v17.0.1...sasportal-v18.0.0) (2024-05-02)
 
 
